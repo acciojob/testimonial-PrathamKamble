@@ -6,9 +6,9 @@
 
 .Testimonial
 {
-	padding: 10px;
+	padding: 10px 20px;
 	background-color: #fff;
-	border: 1px
+	border: 1px solid #EEEEEE
 }
 
 .Author
